@@ -1,2 +1,3 @@
-# exohood-whitepaper
-📄Exohood's Protocol Whitepaper
+![Title](banner.png)
+
+# exohood-docs
