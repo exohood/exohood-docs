@@ -1,3 +1,5 @@
 ![Title](banner.png)
 
-# exohood-docs
+# Exohood Technical Documentation
+
+Visit: https://docs.exohood.com/
